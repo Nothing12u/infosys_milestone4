@@ -1,0 +1,36 @@
+Degree,Specialization,CGPA,JobRole
+B.Tech,Computer Science,8.5,Software Engineer
+B.Tech,Computer Science,9.1,Software Engineer
+B.Tech,Information Technology,7.8,Web Developer
+B.Tech,Information Technology,8.2,System Admin
+B.Tech,Electronics,6.5,Hardware Engineer
+B.Tech,Electronics,7.2,Hardware Engineer
+B.Sc,Data Science,8.8,Data Analyst
+B.Sc,Data Science,7.5,Data Analyst
+B.Sc,Computer Science,6.9,Junior Developer
+B.Sc,Mathematics,8.1,Data Analyst
+B.Sc,Statistics,7.9,Data Scientist
+B.Com,Accounting,8.5,Accountant
+B.Com,Finance,7.8,Financial Analyst
+B.Com,Finance,8.2,Financial Analyst
+BBA,Marketing,7.5,Marketing Executive
+BBA,HR,8.0,HR Manager
+BBA,Finance,6.8,Bank Officer
+MBA,Finance,9.2,Investment Banker
+MBA,Marketing,8.5,Product Manager
+MBA,HR,7.9,HR Director
+M.Tech,Computer Science,9.0,Senior Software Engineer
+M.Tech,Data Science,8.8,Machine Learning Engineer
+M.Tech,VLSI,7.5,Chip Designer
+MCA,Software Systems,8.1,Software Developer
+MCA,Data Analytics,7.6,Business Analyst
+BCA,Web Design,6.5,Frontend Developer
+BCA,Mobile App,7.2,Mobile Developer
+B.Des,Graphic Design,8.0,UI/UX Designer
+B.Des,Animation,7.5,Animator
+B.Arch,Architecture,8.5,Architect
+B.Pharm,Pharmaceuticals,7.8,Pharmacist
+B.E,Civil Engineering,7.0,Civil Engineer
+B.E,Mechanical,6.8,Mechanical Engineer
+B.Tech,AI & ML,9.5,AI Researcher
+B.Tech,Cyber Security,8.8,Security Analyst
